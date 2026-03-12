@@ -12,7 +12,7 @@ _**Disclamer: Los datos se generaron de forma artificial usando Grok en modo exp
 ## Objetivo
 
 Construir un flujo de analisis reproducible que permita:
-- Simular base de datos extraida de _Relatorios_ que indiquen recoordinacion y motivos
+- Simular con inteligencia artificial base de datos extraida de _Relatorios_ que indiquen recoordinacion y motivos
 - Extraer casos objetivo.
 - Transformacion de datos con LLMs: Gemini: Modelo: **gemini-2.5-flash**
 - Visualizar indicadores de costo por tipo de caso y por franja horaria.
