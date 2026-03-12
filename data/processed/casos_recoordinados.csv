@@ -1,0 +1,115 @@
+id,fecha,anulado,cancelado_activado,coordinado,comentario,type,costo
+16,05/03/25 12:05:35,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,95879
+22,21/08/25 20:53:23,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 110 min.,Capacidad excedida,26179
+30,29/01/26 01:14:52,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 99 min.,Capacidad excedida,94530
+32,03/02/25 06:58:36,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-2354.",Falla GPS prestador,96787
+33,03/01/26 10:13:41,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,12913
+38,08/08/25 18:25:23,0,1,1,Demora elevada del prestador (+91 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,49855
+57,05/07/25 09:15:03,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,74047
+58,04/05/25 18:05:05,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,85384
+72,17/01/25 10:04:32,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,54444
+73,02/05/25 08:42:31,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,54398
+91,02/01/25 12:16:59,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,66226
+99,13/03/26 16:10:03,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,14534
+100,18/09/25 02:54:11,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,83842
+110,20/01/26 02:00:29,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 82 min.,Capacidad excedida,99249
+112,03/10/25 06:32:16,0,1,1,Demora elevada del prestador (+86 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,54858
+118,06/12/25 03:56:08,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,89165
+129,27/02/25 02:56:44,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,86554
+133,06/07/25 01:57:22,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,87627
+165,04/08/25 21:24:43,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 59 min.,Capacidad excedida,65419
+169,09/08/25 18:38:41,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,7260
+176,26/04/25 06:09:01,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,8526
+180,23/12/25 12:31:25,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,97501
+202,19/07/25 18:44:01,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,66704
+209,22/06/25 21:43:51,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 65 min.,Capacidad excedida,63669
+223,06/03/26 00:39:09,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 95 min.,Capacidad excedida,26900
+245,27/02/26 23:37:17,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,82511
+260,06/06/25 21:37:23,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 59 min.,Capacidad excedida,46277
+286,15/08/25 09:55:37,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-4087.",Falla GPS prestador,81981
+291,03/05/25 05:35:04,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,23176
+292,22/03/25 00:26:28,0,1,1,Demora elevada del prestador (+48 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,63437
+295,25/05/25 22:55:29,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,6241
+301,26/03/25 09:38:47,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-4842.",Falla GPS prestador,12759
+312,31/03/25 15:33:41,0,1,1,Demora elevada del prestador (+82 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,62793
+334,03/03/26 04:31:59,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-6953.",Falla GPS prestador,64990
+335,02/01/26 09:32:45,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,29342
+343,02/01/25 09:46:19,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,58676
+354,19/01/25 04:32:37,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,27186
+357,22/08/25 00:46:09,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,25547
+369,03/06/25 00:02:20,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,84233
+371,11/07/25 13:09:15,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,57923
+372,29/09/25 13:36:43,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,78918
+388,17/10/25 21:49:47,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,37825
+401,04/10/25 11:33:32,0,1,1,Demora elevada del prestador (+80 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,77980
+408,09/02/26 12:00:16,0,1,1,Demora elevada del prestador (+40 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,66661
+410,11/12/25 23:43:16,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,38603
+425,12/11/25 13:17:02,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,14261
+431,26/02/26 14:05:42,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,86878
+434,05/05/25 04:50:36,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 56 min.,Capacidad excedida,71299
+450,26/11/25 00:03:30,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-4992.",Falla GPS prestador,92287
+455,06/03/25 08:39:40,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,54791
+459,20/02/25 22:07:54,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,19129
+461,10/10/25 23:55:13,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,39067
+471,15/10/25 17:21:42,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-4096.",Falla GPS prestador,41993
+473,07/12/25 13:55:58,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 35 min.,Capacidad excedida,75682
+477,04/09/25 07:54:06,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 70 min.,Capacidad excedida,46185
+498,28/02/25 11:27:07,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,23786
+516,09/03/26 03:15:27,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,80934
+520,09/02/25 16:40:07,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,73242
+529,18/08/25 21:59:56,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,67509
+540,10/02/26 23:57:02,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,27227
+547,26/09/25 16:39:10,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 86 min.,Capacidad excedida,85209
+562,17/12/25 16:05:41,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 93 min.,Capacidad excedida,94034
+563,10/12/25 13:32:23,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,18177
+564,10/01/25 11:19:11,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-4721.",Falla GPS prestador,80672
+589,20/05/25 14:57:32,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,99134
+590,17/03/25 13:05:58,0,1,1,Demora elevada del prestador (+105 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,36719
+598,01/03/26 15:44:53,0,1,1,Demora elevada del prestador (+51 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,96386
+604,28/05/25 07:19:07,0,1,1,Demora elevada del prestador (+81 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,76550
+607,26/02/25 15:38:34,0,1,1,Demora elevada del prestador (+47 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,72169
+621,30/06/25 17:21:52,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,42857
+622,26/11/25 05:53:49,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,35075
+641,05/12/25 09:19:28,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 36 min.,Capacidad excedida,33246
+643,20/12/25 14:22:28,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,34677
+645,30/06/25 19:27:17,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-9269.",Falla GPS prestador,22957
+665,01/01/26 14:05:51,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,29299
+666,16/12/25 10:42:22,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,87665
+668,29/05/25 09:54:10,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 69 min.,Capacidad excedida,12580
+671,18/09/25 07:07:12,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 47 min.,Capacidad excedida,67705
+695,15/01/25 02:02:41,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,87247
+702,21/08/25 02:44:03,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 102 min.,Capacidad excedida,73525
+704,26/08/25 06:21:38,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,58833
+723,16/05/25 23:23:48,0,1,1,Demora elevada del prestador (+98 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,50190
+727,17/07/25 16:28:48,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,73291
+755,14/09/25 19:58:30,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,58046
+761,01/07/25 21:49:55,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,45602
+765,02/06/25 07:19:49,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,16972
+771,14/07/25 12:52:22,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 49 min.,Capacidad excedida,30179
+773,28/05/25 22:05:22,0,1,1,Demora elevada del prestador (+77 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,11582
+791,05/03/26 05:59:58,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,84695
+795,18/10/25 19:06:59,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,94547
+802,22/06/25 09:36:43,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 65 min.,Capacidad excedida,71477
+810,26/10/25 23:36:00,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,69197
+819,11/07/25 13:44:35,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-7271.",Falla GPS prestador,14443
+822,15/12/25 19:55:50,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,42234
+834,07/06/25 23:01:25,0,1,1,Cobertura celular nula en zona rural. Imposible confirmar ubicación. Cancelado y recoord vía datos alternativos.,Sin cobertura,93007
+843,13/07/25 12:05:43,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 41 min.,Capacidad excedida,67182
+847,25/04/25 00:48:01,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,21959
+855,21/02/25 19:02:28,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-5302.",Falla GPS prestador,46000
+857,25/01/25 07:47:02,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,29131
+867,17/11/25 21:27:35,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,57932
+883,25/01/26 18:46:42,0,1,1,Demora elevada del prestador (+107 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,85660
+884,14/10/25 06:30:13,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,11700
+901,14/07/25 18:53:15,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-7586.",Falla GPS prestador,26817
+935,22/01/25 07:13:57,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,90001
+937,24/01/25 02:43:59,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 95 min.,Capacidad excedida,48137
+939,17/01/25 05:59:54,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,79077
+947,14/09/25 23:22:03,0,1,1,Demora elevada del prestador (+93 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,74431
+953,02/07/25 17:24:27,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,92587
+958,31/12/25 20:09:47,0,1,1,El auxilio devolvió el servicio por incompatibilidad de equipo (grúa insuficiente para vehículo pesado). Cancelado activado y recoord con prestador adecuado.,Equipo incompatible,82191
+959,19/07/25 10:23:06,0,1,1,Error en datos CRM (patente/matricula equivocada). Cancelado activado y recoord con información corregida.,Error datos CRM,82608
+974,05/09/25 02:23:16,0,1,1,Socio cambió destino sin avisar. Auxilio llegó al sitio original y devolvió. Cancelado y recoord al nuevo punto. Supervisor informado.,Socio cambió destino,57364
+975,07/05/25 23:40:31,0,1,1,"Falla en GPS del prestador, no localizó vehículo. Cancelado activado y recoord con unidad alternativa. Caso registrado en incidente #INC-5982.",Falla GPS prestador,13914
+978,22/07/25 10:53:39,0,1,1,Demora elevada del prestador (+53 min por tráfico). Socio canceló activado y recoord con unidad más cercana. Cliente notificado vía SMS.,Demora por tráfico,57831
+983,23/07/25 10:18:47,0,1,1,Capacidades operativas excedidas (3 casos simultáneos). Socio canceló y activamos recoord urgente. Tiempo de espera reportado: 51 min.,Capacidad excedida,22000
