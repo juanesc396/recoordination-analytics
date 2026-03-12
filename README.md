@@ -18,13 +18,6 @@ Construir un flujo de analisis reproducible que permita:
 - Visualizar indicadores de costo por tipo de caso y por franja horaria.
 - Facilitar la toma de decisiones con una salida grafica clara.
 
-## Tecnologias utilizadas
-
-- Python 3.12
-- Jupyter Notebook
-- pandas
-- plotly
-
 ## Flujo de trabajo
 
 1. 01_clean_data.ipynb
@@ -36,5 +29,14 @@ Construir un flujo de analisis reproducible que permita:
 3. 03_analytics.ipynb
    - Analisis visual integrado.
    - Generacion de grafico principal y exportacion HTML.
+
+## Tecnologias utilizadas
+
+- Python 3.12
+- Jupyter Notebook
+- pandas
+- plotly
+
+
   
 
